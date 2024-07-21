@@ -21,7 +21,10 @@ Welcome to my GitHub profile! I'm a data engineer specializing in fraud detectio
   <img height="60" src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000"/>
 </a>
 <a href="https://www.instagram.com/riannggggg/">
-  <img height="50" src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000"/>
+  <img height="60" src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000"/>
+</a>
+<a href="mailto:nglongvu10022k@gmail.com?subject=Your%20Subject&body=Your%20email%20body">
+  <img height="60" src="https://img.icons8.com/?size=100&id=nQ4dZIRCI0nW&format=png&color=000000"/>
 </a>
 </p>
 
