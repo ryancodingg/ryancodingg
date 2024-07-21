@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a data engineer specializing in fraud detectio
 
 
 <h1 align="center">
-  Let's Connect and have a Chat!💬
+  Connect me via Social Media Channels 💬
 </h1>
 
 <p align="center">
