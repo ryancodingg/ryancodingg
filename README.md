@@ -1,5 +1,3 @@
- # Ryan Nguyen
-
 ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ryan%20Nguyen&textBg=false&fontColor=00ABE4&desc=Data%20Engineer&descAlign=50&descAlignY=66&rotate=0&animation=twinkling&section=header)
 
 Welcome to my GitHub profile! I'm a data engineer specializing in fraud detection and machine learning.
@@ -19,14 +17,11 @@ Welcome to my GitHub profile! I'm a data engineer specializing in fraud detectio
 <a href="https://medium.com/@ryannguyen102">
   <img height="60" src="https://img.icons8.com/?size=100&id=9LB6bUNyP4yj&format=png&color=000000"/>
 </a>
-<a href="https://dev.to/thepiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
+<a href="https://x.com/nglongvu_1002">
+  <img height="60" src="https://img.icons8.com/?size=100&id=8HtzWaaC5y60&format=png&color=000000"/>
 </a>
-<a href="https://twitter.com/Ipiyushmalhotra">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974271-91dfa250-d70b-4cb9-8707-f1bda1b708c3.png"/>
-</a>
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+<a href="https://www.instagram.com/riannggggg/">
+  <img height="50" src="https://img.icons8.com/?size=100&id=119026&format=png&color=000000"/>
 </a>
 </p>
 
