@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ryan%20Nguyen&textBg=false&fontColor=00FF00&desc=Data%20Engineer&descAlign=50&descAlignY=66)
+![Header]([https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ryan%20Nguyen&textBg=false&fontColor=00FF00&desc=Data%20Engineer&descAlign=50&descAlignY=66](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ryan%20Nguyen&textBg=false&fontColor=00ABE4&desc=Data%20Engineer&descAlign=50&descAlignY=66&rotate=0&animation=twinkling&section=header))
 
 # Ryan Nguyen
 
