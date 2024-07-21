@@ -34,7 +34,7 @@ Welcome to my GitHub profile! I'm a data engineer specializing in fraud detectio
 ```yaml
 name: Long Vu Nguyen (Ryan)
 located_in: Sydney, Australia
-current_job: Data Engineer
+current_role: Data Engineer
 education:
   [
     "Master of Data Science: Swinburne University of Technology",
