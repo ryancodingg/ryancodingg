@@ -1,35 +1,28 @@
- ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ryan%20Nguyen&textBg=false&fontColor=00ABE4&desc=Data%20Engineer&descAlign=50&descAlignY=66&rotate=0&animation=twinkling&section=header)
+ h1 align="center">
+  <img src="https://raw.githubusercontent.com/martonlederer/martonlederer/master/name.svg" alt="Marton Lederer" />
+</h1>
 
-# About me
+## Hey! 👋
+I'm Ryan Nguyen, I am a data engineer with 3+ years of experience in 20 projects.
 
-Hello everyone! My name is Ryan Nguyen, and I am studying Master of Data Science at Swinburne University of Technology 
+- 🦔 Founder of [ArConnect](https://arconnect.io) Arweave Wallet
 
+- 👨‍💻 Working at [Community Labs](https://communitylabs.com) ([We raised $30M!](https://www.bloomberg.com/news/articles/2022-09-08/teenage-founder-raises-30-million-for-crypto-startup-community-labs?utm_medium=email&utm_source=newsletter&utm_term=220908&utm_campaign=author_22684653#xj4y7vzkg&leadSource=uverify%20wall))
 
-<a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-</a>
+- 🧭 Founder at [@th8ta](https://github.com/th8ta) and [@useverto](https://github.com/useverto)
 
-## Projects
+- 👥 Core team member at [@nestdotland](https://github.com/nestdotland)
 
-- **Project 1:** Description of project 1.
-- **Project 2:** Description of project 2.
-- **Project 3:** Description of project 3.
++ a lot more ;)
 
-
-
-<h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
-<p align="left">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="bash" width="45" height="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="php" width="45" height="45"/>
-</p>
 ## Skills
-
-- **Programming Languages:** Python, Java, SQL
-- **Technologies:** Azure, Hadoop, Spark
-- **Tools:** Git, Docker, Kubernetes
+- 👨‍💻 TypeScript, JavaScript, Lua, C, Go, PHP, C#, etc...
+- ⚙️ React, Svelte, Vue
+- 👁️ SASS, CSS, Stylus
+- 💽 MySQL, SQL, Mongo
++ a lot more :D
 
 ## Contact
-
-- **Email:** [your.email@example.com](mailto:your.email@example.com)
-- **LinkedIn:** [linkedin.com/in/ryan-nguyen](https://linkedin.com/in/ryan-nguyen)
+- [marton.lederer.hu](https://marton.lederer.hu)
+- [@martonlederer](https://twitter.com/martonlederer) on Twitter
+- [@martonlederer](./) on Discord
