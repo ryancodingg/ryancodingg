@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![header](https://capsule-render.vercel.app/api?type=slice)
+![header]([https://capsule-render.vercel.app/api?type=slice](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ryan%20Nguyen&textBg=false&fontColor=00FF00&desc=Data%20Engineer&descAlign=50&descAlignY=66))
