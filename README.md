@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a data engineer specializing in fraud detectio
 
 <p align="center">
 <a href="https://www.facebook.com/ryan.vu.1002/">
-      <img height="50" src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000"/>
+      <img height="60" src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000"/>
 </a>
 <a href="https://www.linkedin.com/in/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
