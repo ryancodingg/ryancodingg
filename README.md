@@ -2,7 +2,7 @@
 )
 
 <h1 align="center">
-  If you want to connect with me, please don't hesitate 💬
+  Let's connect and contact with me 💬
 </h1>
 
 <p align="center">
