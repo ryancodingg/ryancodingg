@@ -13,11 +13,11 @@ Welcome to my GitHub profile! I'm a data engineer specializing in fraud detectio
 <a href="https://www.facebook.com/ryan.vu.1002/">
       <img height="60" src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000"/>
 </a>
-<a href="https://www.linkedin.com/in/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973395-19676cd8-f8ec-4abf-83ff-da8243505b82.png"/>
+<a href="https://www.linkedin.com/in/ryan-nguyen-a6827a1a2/">
+  <img height="50" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000"/>
 </a>
-<a href="https://thepiyushmalhotra.medium.com/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166973962-d05d145a-b6a0-4643-bd3d-5ac845679367.png"/>
+<a href="https://medium.com/@ryannguyen102">
+  <img height="50" src="https://img.icons8.com/?size=100&id=9LB6bUNyP4yj&format=png&color=000000"/>
 </a>
 <a href="https://dev.to/thepiyushmalhotra">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974096-7aeecad4-483e-4c85-983f-f4b37b3f794e.png"/>
