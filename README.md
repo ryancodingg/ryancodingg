@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a data engineer specializing in fraud detectio
 </p>
 
 
-<h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
+<h2> 👨🏻‍💻 &nbsp; About me </h2>
  
 ```yaml
 name: Long Vu Nguyen (Ryan)
