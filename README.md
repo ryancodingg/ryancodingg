@@ -1,18 +1,22 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ryan%20Nguyen&textBg=false&fontColor=00FF00&desc=Data%20Engineer&descAlign=50&descAlignY=66)
 
-<!--
-**ryancodingg/ryancodingg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Ryan Nguyen
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I am a Data Engineer with a passion for developing data-driven solutions to complex problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
 
-![header]([https://capsule-render.vercel.app/api?type=slice](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Ryan%20Nguyen&textBg=false&fontColor=00FF00&desc=Data%20Engineer&descAlign=50&descAlignY=66))
+- **Project 1:** Description of project 1.
+- **Project 2:** Description of project 2.
+- **Project 3:** Description of project 3.
+
+## Skills
+
+- **Programming Languages:** Python, Java, SQL
+- **Technologies:** Azure, Hadoop, Spark
+- **Tools:** Git, Docker, Kubernetes
+
+## Contact
+
+- **Email:** [your.email@example.com](mailto:your.email@example.com)
+- **LinkedIn:** [linkedin.com/in/ryan-nguyen](https://linkedin.com/in/ryan-nguyen)
