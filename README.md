@@ -30,42 +30,48 @@
 <h2> 👨🏻‍💻 &nbsp; About me </h2>
  
 ```yaml
-name: Long Vu Nguyen (Ryan)
-located_in: Sydney, Australia
-current_role: Data Engineer
-education:
-  [
-    "Master of Data Science: Swinburne University of Technology",
-    "Bachelor of Information Technology (Information System and Business Analysis): Macquarie University",
-    "Bachelor of Commerce (Finance): Macquarie University",
-  ]
-most recent company that I worked for: Telstra
 
-fields_of_interests:
-  [
-    "Cloud Engineering",
-    "Data Science",
-    "Machine Learning",
-    "Data Analysis",
-    "Artificial Intelligence",
-    "DevOps",
-  ]
-technical_background:
-  [
-    "Consultant - Telstra"
-    "Data Engineering Intern: EY",
-    "Data Engineering Analytics Intern: TIKI Corporation ",
-    "Social Media Analyst - Trip.Social",
-    "Intern - VLSI and FPGA Implementation",
-  ]
-  
-currently_learning: ["Docker, Kubernetes, and React Native"]
-current_role_applying: [
-    "Data Engineer",
-    "Analytics Engineer",
-    "Data Analyst",
-    "Business Analyst"
-]
-hobbies: ["Gaming", "Chess", "Soccer", "Podcast", "Book"]
+class Ryan:
+
+    def __init__(self):
+        self.username = 'ryancodingg'
+        self.name = 'Ryan Nguyen'
+        self.position = 'Data Engineer'
+        self.interest = "Data Science, Machine Learning, Artificial Intelligence, Cloud Computing"
+        self.location = "Sydney, Australia"
+        self.education = {
+            'Master of Data Science: Swinburne Univeristy of Technology',
+            'Bachelor of Information Technology (Information System & Business Analysis: Macquarie University',
+            'Bachelor of Commerce (Finance): Macquarie University'
+        }
+        self.background {
+            'Consultant: Telstra',
+            'Data Engineer Intern: EY',
+            'Data Engineering Analytics Intern: TIKI Corporation',
+            'Social Media Analyst: Trip.Social',  
+        } 
+        self.code = {
+            'programming': ['Python', 'SQL', '.NET', 'Java', 'C++', 'R', 'PHP'],
+            'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
+            'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Azure'],
+            'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
+            'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
+        }
+        self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
+
+    def __str__(self):
+        return f'{self.name} | {self.position}'
+
+
+if __name__ == '__main__':
+    me = RafnixG()
+    print(me)
+
+
 ```
-<h2> </h2>
+<h2> My skillset
+
+
+
+</h2>
