@@ -75,3 +75,8 @@ if __name__ == '__main__':
 Apart from that, please check out [My Resume](https://gist.github.com/ryancodingg/1b8beb6639b5e4c5219cf0a42b0f2aaf) and follow other social media channels. 
 
 
+<h2> 📊 Github Stats </h2>
+
+[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancodingg)](https://github.com/ryancodingg/github-readme-stats)
+
+
