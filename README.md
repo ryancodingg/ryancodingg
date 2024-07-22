@@ -65,7 +65,7 @@ class Ryan:
 
 
 if __name__ == '__main__':
-    me = RafnixG()
+    me = Ryan()
     print(me)
 
 
