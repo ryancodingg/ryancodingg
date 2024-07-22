@@ -72,7 +72,6 @@ if __name__ == '__main__':
 ```
 <h2> 💼 My Resume </h2>
 
-Apart from coding, I also maintain a blog - you can find my articles on my website at [martinheinz.dev](https://martinheinz.dev/) as well as on [Medium](https://medium.com/@martin.heinz) and [DEV.to](https://dev.to/martinheinz).
+Apart from that, please check out [My Resume][https://gist.github.com/ryancodingg/1b8beb6639b5e4c5219cf0a42b0f2aaf] and follow other social media channels. 
 
-A sample of my recent articles:
 
