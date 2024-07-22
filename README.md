@@ -78,6 +78,7 @@ Apart from that, please check out [My Resume](https://gist.github.com/ryancoding
 <h2> 📊 Github Stats </h2>
 
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancodingg&theme=dark&show_icons=true)](https://github.com/ryancodingg/github-readme-stats) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancodingg&s_weight=0.5&count_weight=0.5)
 
 
 <p align="center"> 
