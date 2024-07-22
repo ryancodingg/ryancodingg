@@ -37,7 +37,7 @@ class Ryan:
         self.username = 'ryancodingg'
         self.name = 'Ryan Nguyen'
         self.position = 'Data Engineer'
-        self.interest = "Data Science, Machine Learning, Artificial Intelligence, Cloud Computing"
+        self.interest = "Data Science, Machine Learning, Artificial Intelligence, Cloud Computing, Big Data"
         self.location = "Sydney, Australia"
         self.education = {
             'Master of Data Science: Swinburne Univeristy of Technology',
@@ -55,7 +55,7 @@ class Ryan:
             'database': ['PostgreSQL', 'MySQL', 'SQLite3', 'Mongo DB', 'Redis'],
             'devops': ['Docker', 'Linux', 'Jenkins', 'GitHub Actions', 'AWS', 'Azure'],
             'frontend': ['HTML', 'CSS', 'JavaScript', 'ReactJS', 'Svelte', 'Boostrap'],
-            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx'],
+            'tools': ['GIT', 'GitHub', 'GitLab', 'Pandas', 'Jupyter notebook', 'SQLAlchemy', 'Celery', 'Nginx', R],
             'misc': ['Firebase', 'TDD', 'SCRUM', 'SOLID', 'gRPC', 'ML', 'Tech Writer']
         }
         self.architecture = ['SPA', 'MVC', 'Serverless', 'microservices']
@@ -70,8 +70,8 @@ if __name__ == '__main__':
 
 
 ```
-<h2> My skillset
+<h2> My Resume
 
-
+https://gist.github.com/ryancodingg/1b8beb6639b5e4c5219cf0a42b0f2aaf
 
 </h2>
