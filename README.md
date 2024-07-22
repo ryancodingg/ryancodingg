@@ -77,8 +77,12 @@ Apart from that, please check out [My Resume](https://gist.github.com/ryancoding
 
 <h2> 📊 Github Stats </h2>
 
-[![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancodingg&theme=dark&show_icons=true)](https://github.com/ryancodingg/github-readme-stats) 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ryancodingg&theme=dark&layout=compact&langs_count=12)](https://github.com/ryancodingg/github-readme-stats)
+<a href="https://github.com/ryancodingg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryancodingg" />
+</a>
+<a href="https://github.com/ryancodingg/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryancondingg&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 
 <p align="center"> 
