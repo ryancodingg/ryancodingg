@@ -36,8 +36,8 @@ current_role: Data Engineer
 education:
   [
     "Master of Data Science: Swinburne University of Technology",
-    "Bachelor of Information Technology, majoring of Information System and Business Analysis: Macquarie University",
-    "Bachelor of Commer, majoring in Finance: Macquarie University",
+    "Bachelor of Information Technology (Information System and Business Analysis): Macquarie University",
+    "Bachelor of Commerce (Finance): Macquarie University",
   ]
 most recent company that I worked for: Telstra
 
