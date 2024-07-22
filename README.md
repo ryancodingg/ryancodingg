@@ -60,7 +60,12 @@ technical_background:
   ]
   
 currently_learning: ["Docker, Kubernetes, and React Native"]
-2024 Goals: ["Create 25+ Projects and learn at least 5-10 new Technologies."]
+current_role_applying: [
+    "Data Engineer",
+    "Analytics Engineer",
+    "Data Analyst",
+    "Business Analyst"
+]
 hobbies: ["Gaming", "Chess", "Soccer", "Podcast", "Book"]
 ```
 <h2> </h2>
