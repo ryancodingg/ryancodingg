@@ -92,5 +92,9 @@ Apart from that, please check out [My Resume](https://gist.github.com/ryancoding
 <img src="stats.gif" width="90%"><br/><br/>
 
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ryancodingg&repo=github-readme-stats&theme=neon)](https://github.com/ryancodingg/github-readme-stats)
+
+
+
 
 
