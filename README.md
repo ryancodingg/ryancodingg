@@ -1,5 +1,5 @@
  ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,%20this%20is%20Ryan!&fontColor=00ABE4&desc=I'm%20an%20Data%20Engineer!&descAlign=50&descAlignY=75)
-)
+
 
 <h1 align="center">
   Let's connect and contact with me 💬
@@ -76,12 +76,11 @@ Apart from that, please check out [My Resume](https://gist.github.com/ryancoding
 
 
 <h2> 📊 Github Stats </h2>
-
 <a href="https://github.com/ryancodingg/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryancodingg" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=ryancodingg&theme=neon&show_icons=true" />
 </a>
-<a href="https://github.com/ryancodingg/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryancondingg&layout=compact&langs_count=8&card_width=320" />
+<a href="https://github.com/ryancodingg/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryancodingg&theme=neon&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 
