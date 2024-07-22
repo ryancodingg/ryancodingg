@@ -70,7 +70,7 @@ if __name__ == '__main__':
 
 
 ```
-<h2> My Resume
+<h2>       <img height="60" src="https://img.icons8.com/?size=100&id=118568&format=png&color=000000"/>My Resume
 
 <a>https://gist.github.com/ryancodingg/1b8beb6639b5e4c5219cf0a42b0f2aaf</a>
 
