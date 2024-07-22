@@ -70,7 +70,7 @@ if __name__ == '__main__':
 
 
 ```
-<h2> My Resume
+<h2> ![My Resume](https://github.com/username/username/blob/main/path/to/Document.svg)
 
 https://gist.github.com/ryancodingg/1b8beb6639b5e4c5219cf0a42b0f2aaf
 
