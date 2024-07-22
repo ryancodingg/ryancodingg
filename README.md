@@ -80,4 +80,13 @@ Apart from that, please check out [My Resume](https://gist.github.com/ryancoding
 [![Ryan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ryancodingg&theme=dark&show_icons=true)](https://github.com/ryancodingg/github-readme-stats) 
 
 
+<p align="center"> 
+  Visitors count<br>
+  <img src="https://profile-counter.glitch.me/ryancodingg/count.svg" />
+</p>
+
+<img src="stats.gif" width="90%"><br/><br/>
+
+
+
 
