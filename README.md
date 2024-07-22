@@ -1,4 +1,4 @@
-![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,%20this%20is%20Ryan!&fontColor=00ABE4&desc=I'm%20an%20Data%20Engineer!&descAlign=50&descAlignY=75)
+ ![Header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=Hello,%20this%20is%20Ryan!&fontColor=00ABE4&desc=I'm%20an%20Data%20Engineer!&descAlign=50&descAlignY=75)
 )
 
 <h1 align="center">
@@ -72,6 +72,6 @@ if __name__ == '__main__':
 ```
 <h2> 💼 My Resume
 
-<a>https://gist.github.com/ryancodingg/1b8beb6639b5e4c5219cf0a42b0f2aaf</a>
+<p> https://gist.github.com/ryancodingg/1b8beb6639b5e4c5219cf0a42b0f2aaf </p>
 
 </h2>
