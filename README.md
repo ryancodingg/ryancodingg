@@ -12,7 +12,7 @@
 <a href="https://www.linkedin.com/in/ryan-nguyen-a6827a1a2/">
   <img height="60" src="https://img.icons8.com/?size=100&id=67570&format=png&color=000000"/>
 </a>
-<a href="https://medium.com/@ryannguyen102">
+<a href="https://medium.com/@ryancodingg">
   <img height="60" src="https://img.icons8.com/?size=100&id=9LB6bUNyP4yj&format=png&color=000000"/>
 </a>
 <a href="https://x.com/nglongvu_1002">
